@@ -1,0 +1,11 @@
+{
+    "modules":true,
+    "plugins":{
+        "autoprefixer":{
+            "browsers":[
+                "Last 2 versions",
+                "IE 11"
+            ]
+        }
+    }
+}
