@@ -1,11 +1,14 @@
 {
-    "modules":true,
+    "modules":false,
     "plugins":{
         "autoprefixer":{
             "browsers":[
                 "Last 2 versions",
                 "IE 11"
             ]
+        },
+        "postcss-custom-properties": {
+          preserve: false
         }
     }
 }

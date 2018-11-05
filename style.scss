@@ -1,8 +1,15 @@
 
+
+:root{
+    --mainColor: red;
+
+}
+
 .title-div{
     border:1px solid #ddd;
-    .title:fullscreen{
-        color:red;
+    .title{
+        color: var(--mainColor);
+        font-weight: bold;
         font-size: 20px;
     }
 }
