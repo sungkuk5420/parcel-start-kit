@@ -1,0 +1,19 @@
+{
+  "name": "parcel-start-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sungkuk5420/parcel-start-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sungkuk5420/parcel-start-kit/issues"
+  },
+  "homepage": "https://github.com/sungkuk5420/parcel-start-kit#readme"
+}
