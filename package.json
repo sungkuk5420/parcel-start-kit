@@ -20,5 +20,8 @@
     "babel-preset-env": "^1.7.0",
     "parcel": "^1.10.3",
     "parcel-bundler": "^1.10.3"
+  },
+  "script": {
+    "start": "parcel index.html"
   }
 }
