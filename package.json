@@ -19,7 +19,8 @@
   "dependencies": {
     "babel-preset-env": "^1.7.0",
     "parcel": "^1.10.3",
-    "parcel-bundler": "^1.10.3"
+    "parcel-bundler": "^1.10.3",
+    "postcss-modules": "^1.4.1"
   },
   "script": {
     "start": "parcel index.html"
