@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "parcel index.html"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sungkuk5420/parcel-start-kit.git"
@@ -25,5 +22,9 @@
   },
   "devDependencies": {
     "babel-core": "^6.26.3"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html -d build --public-url ./"
   }
 }
